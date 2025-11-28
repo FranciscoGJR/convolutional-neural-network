@@ -1,0 +1,12 @@
+# Arquivos de compilação
+*.o
+*.a
+*.so
+*.dll
+
+# Arquivos executáveis
+*.out
+*.exe
+
+# Arquivos de log
+*.log
